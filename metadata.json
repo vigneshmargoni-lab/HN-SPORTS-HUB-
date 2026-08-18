@@ -1,0 +1,6 @@
+{
+  "name": "HN SPORTS HUB",
+  "description": "Premium Sports Shop in Bhupalpally, Telangana offering cricket equipment, football, volleyball, indoor games, jerseys, sports shoes, trophies, medals, and sports accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
